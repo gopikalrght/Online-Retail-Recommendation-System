@@ -65,12 +65,10 @@ Used Cosine Similarity to recommend products similar to a selected item.
 ## Sample Outputs
 
 ### Top Recommended Products
-
-![Top Products](Screenshots/output-2.png)
+![Top Products](output-2.png)
 
 ### Similar Product Recommendation
-
-![Recommendations](Screenshots/output-1.png)
+![Recommendations](output-1.png)
 
 ## Future Improvements
 
